@@ -1,2 +1,5 @@
 ### JetBrains ###
 .idea
+
+### Dependencies ###
+/node_modules
